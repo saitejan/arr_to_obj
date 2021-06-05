@@ -1,6 +1,6 @@
 {
-  "name": "saiteja/arr_to_obj",
-  "version": "1.0.0",
+  "name": "saiteja-arr_to_obj",
+  "version": "1.0.1",
   "description": "convert to array to object",
   "main": "index.js",
   "repository": "saitejan/arr_to_obj",
