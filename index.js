@@ -1,1 +1,1 @@
-module.exports = (arr,key) => arr.reduce((a,b) => (a[b[key||"value"]]=b,a),{})
+module.exports = (arr,key,value) => arr.reduce((a,b) => (a[b[key]||b]=(value ? (b[value] || b) : b),a),{})
