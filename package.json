@@ -1,0 +1,17 @@
+{
+  "name": "saiteja/arr_to_obj",
+  "version": "1.0.0",
+  "description": "convert to array to object",
+  "main": "index.js",
+  "repository": "saitejan/arr_to_obj",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sai teja",
+  "license": "ISC",
+  "keywords": [
+    "npm",
+    "package",
+    "javascript"
+  ]
+}

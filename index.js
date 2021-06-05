@@ -1,0 +1,1 @@
+module.exports = (arr,key) => arr.reduce((a,b) => (a[b[key||"value"]]=b,a),{})
